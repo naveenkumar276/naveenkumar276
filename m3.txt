@@ -1,14 +1,2 @@
 
-
-
-Yes
-
-
-
-1234
-exit
-clr
-close
-no
-
-
+456
